@@ -2,6 +2,7 @@
 
 I create things that are maybe useful. Have fun.
 
+<!--
 ## Frequently Used 
 <p align="left">
  <a href="#">
@@ -30,7 +31,7 @@ I create things that are maybe useful. Have fun.
 
 ## Language Density Overall
 <a href="https://github.com/KaNguy/"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaNguy&theme=tokyonight" alt="Lang Frequency"/> </a>
-
+-->
 <!--
 **KaNguy/KaNguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
